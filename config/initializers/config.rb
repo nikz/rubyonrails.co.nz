@@ -3,5 +3,6 @@ ROR_CALENDAR = 'http://www.google.com/calendar/feeds/2si764v3mdv3b7vm3vie3s0hdg%
 ROR_NZ_ORGANISATIONS = %w[resolve
                           trineo
                           localist
-                          AbleTech] # organisations can't follow this account so add yours here
+                          AbleTech,
+                          prettysweet] # organisations can't follow this account so add yours here
 ROR_REQUIRED_WATCHERS = 5 # only show projects with more than this many watchers
